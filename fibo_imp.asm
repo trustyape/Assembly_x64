@@ -12,7 +12,6 @@ section .text
     global main
     
 main:
-    mov rbp, rsp        ;for correct debugging
     push rbp            ;pointer on stack
     mov rbp, rsp
     

@@ -1,5 +1,5 @@
 # Assembly x64 Linux, Nasm
-## Small collection of code
+## Small programs to document my Assembly learning curve
 
 ## Fibonacci
 Provide input from 1-9
